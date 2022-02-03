@@ -13,4 +13,4 @@ I’m Jiawei Lu, a Ph.D. student at Zhejiang University, advised by [Tianjia Sha
 <!-- A data-driven personal website -->
 
 ## Publications
-- **Pose Guided Image Generation from Misaligned Sources via Residual Flow Based Correction** <br> **Jiawei Lu**, He Wang, Tianjia Shao, Yin Yang, Kun Zhou <br> AAAI 2022 \| Paper(Comming soon) \| Code (Comming soon) 
+- **Pose Guided Image Generation from Misaligned Sources via Residual Flow Based Correction** <br> **Jiawei Lu**, He Wang, Tianjia Shao, Yin Yang, Kun Zhou <br> AAAI 2022 \| [Paper](https://arxiv.org/pdf/2202.00843.pdf) \| Code (Comming soon) 
